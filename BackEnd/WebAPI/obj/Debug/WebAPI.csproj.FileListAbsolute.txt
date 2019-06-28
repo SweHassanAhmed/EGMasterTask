@@ -1,0 +1,232 @@
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\WebAPI.dll.config
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\WebAPI.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\WebAPI.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\csc.exe
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\csc.exe.config
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\csc.rsp
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\csi.exe
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\csi.exe.config
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\csi.rsp
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.AppContext.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.Console.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.IO.Compression.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.IO.Pipes.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.Security.Claims.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.ValueTuple.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.Xml.XPath.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\vbc.exe
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\vbc.exe.config
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\vbc.rsp
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\VBCSCompiler.exe
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Antlr3.Runtime.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\EntityFramework.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\EntityFramework.SqlServer.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Newtonsoft.Json.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Net.Http.Formatting.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.Helpers.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.Http.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.Http.WebHost.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.Mvc.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.Optimization.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.Razor.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.WebPages.Deployment.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.WebPages.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.WebPages.Razor.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\WebGrease.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\EntityFramework.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\EntityFramework.SqlServer.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Newtonsoft.Json.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Net.Http.Formatting.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.Helpers.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.Http.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.Http.WebHost.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.Mvc.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.Optimization.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.Razor.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.WebPages.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.WebPages.Deployment.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.WebPages.Razor.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Antlr3.Runtime.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\obj\Debug\WebAPI.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\obj\Debug\WebAPI.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.Cors.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.Http.Cors.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\System.Web.Http.Cors.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Data.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Data.Infrastructure.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Microsoft.Practices.ServiceLocation.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Model.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Data.Infrastructure.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Data.Infrastructure.dll.config
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Data.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Data.dll.config
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Microsoft.Practices.ServiceLocation.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Model.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Model.dll.config
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Data.Repository.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Data.Repository.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\SimpleInjector.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\SimpleInjector.Integration.Web.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\SimpleInjector.Integration.Web.Mvc.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\SimpleInjector.Integration.WebApi.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\SimpleInjector.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\SimpleInjector.Integration.Web.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\SimpleInjector.Integration.Web.Mvc.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\SimpleInjector.Integration.WebApi.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\AutoMapper.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Service.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\Service.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\AutoMapper.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\WebAPI\bin\AutoMapper.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\WebAPI.dll.config
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\WebAPI.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\WebAPI.pdb
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\csc.exe
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\csc.exe.config
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\csc.rsp
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\csi.exe
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\csi.exe.config
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\csi.rsp
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.Console.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\vbc.exe
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\vbc.exe.config
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\vbc.rsp
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Antlr3.Runtime.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\AutoMapper.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Data.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Data.Infrastructure.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Data.Repository.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\EntityFramework.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Model.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Service.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\SimpleInjector.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\SimpleInjector.Integration.Web.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\SimpleInjector.Integration.Web.Mvc.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.Cors.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.Helpers.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.Http.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.Mvc.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.Optimization.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.Razor.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.WebPages.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\WebGrease.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Data.Infrastructure.pdb
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Data.Infrastructure.dll.config
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Data.Repository.pdb
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Data.pdb
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Data.dll.config
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Model.pdb
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Model.dll.config
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Service.pdb
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\AutoMapper.pdb
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\AutoMapper.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\EntityFramework.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\SimpleInjector.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\SimpleInjector.Integration.Web.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\SimpleInjector.Integration.Web.Mvc.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.Helpers.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.Http.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.Mvc.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.Optimization.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.Razor.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.WebPages.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\obj\Debug\WebAPI.csprojAssemblyReference.cache
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\obj\Debug\WebAPI.csproj.CopyComplete
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\WebAPI\obj\Debug\WebAPI.pdb

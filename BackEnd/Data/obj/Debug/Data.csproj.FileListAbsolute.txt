@@ -1,0 +1,36 @@
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\bin\Debug\Data.dll.config
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\bin\Debug\Data.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\bin\Debug\Data.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\bin\Debug\EntityFramework.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\bin\Debug\Model.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\bin\Debug\Model.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\bin\Debug\Model.dll.config
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\bin\Debug\EntityFramework.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\obj\Debug\Data.csprojAssemblyReference.cache
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\obj\Debug\Data.csproj.CopyComplete
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\obj\Debug\Data.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\obj\Debug\Data.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\obj\Debug\Data.Migrations.init.resources
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\obj\Debug\Data.csproj.GenerateResource.cache
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data\obj\Debug\Data.Migrations.ChangeIntToNull.resources
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\bin\Debug\Data.dll.config
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\bin\Debug\Data.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\bin\Debug\Data.pdb
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\bin\Debug\EntityFramework.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\bin\Debug\Model.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\bin\Debug\Model.pdb
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\bin\Debug\Model.dll.config
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\bin\Debug\EntityFramework.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\obj\Debug\Data.Migrations.init.resources
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\obj\Debug\Data.Migrations.ChangeIntToNull.resources
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\obj\Debug\Data.csproj.GenerateResource.cache
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\obj\Debug\Data.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data\obj\Debug\Data.pdb

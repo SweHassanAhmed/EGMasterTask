@@ -1,0 +1,26 @@
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Model\bin\Debug\Model.dll.config
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Model\bin\Debug\Model.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Model\bin\Debug\Model.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Model\bin\Debug\EntityFramework.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Model\bin\Debug\EntityFramework.PrimaryKey.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Model\bin\Debug\EntityFramework.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Model\obj\Debug\Model.csproj.CopyComplete
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Model\obj\Debug\Model.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Model\obj\Debug\Model.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Model\bin\Debug\Model.dll.config
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Model\bin\Debug\Model.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Model\bin\Debug\Model.pdb
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Model\bin\Debug\EntityFramework.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Model\bin\Debug\EntityFramework.PrimaryKey.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Model\bin\Debug\EntityFramework.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Model\obj\Debug\Model.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Model\obj\Debug\Model.pdb

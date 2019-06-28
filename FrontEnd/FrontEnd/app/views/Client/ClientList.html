@@ -1,0 +1,88 @@
+﻿<div>
+
+
+    <div ng-show="checkBoxSection">
+        <div class="custom-control custom-checkbox">
+            <input ng-model="NameCheck" type="checkbox" class="custom-control-input" id="NameCheck">
+            <label class="custom-control-label" for="NameCheck">Name</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+            <input ng-model="AddressCheck" type="checkbox" class="custom-control-input" id="AddressCheck">
+            <label class="custom-control-label" for="AddressCheck">Address</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+            <input ng-model="PhoneCheck" type="checkbox" class="custom-control-input" id="PhoneCheck">
+            <label class="custom-control-label" for="PhoneCheck">Phone</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+            <input ng-model="EmailCheck" type="checkbox" class="custom-control-input" id="EmailCheck">
+            <label class="custom-control-label" for="EmailCheck">Email</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+            <input ng-model="SourceCheck" type="checkbox" class="custom-control-input" id="SourceCheck">
+            <label class="custom-control-label" for="SourceCheck">Source</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+            <input ng-model="ClassificationCheck" type="checkbox" class="custom-control-input" id="ClassificationCheck" >
+            <label class="custom-control-label" for="ClassificationCheck">Classification</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+            <input ng-model="MobileCheck" type="checkbox" class="custom-control-input" id="MobileCheck" >
+            <label class="custom-control-label" for="MobileCheck">Mobile</label>
+        </div>
+        <div class="custom-control custom-checkbox">
+            <input ng-model="EmployeeNameCheck" type="checkbox" class="custom-control-input" id="EmployeeNameCheck" >
+            <label class="custom-control-label" for="EmployeeNameCheck">EmployeeNameCheck</label>
+        </div>
+
+
+
+    </div>
+    <br />
+    <div>
+        <button class="btn btn-info" ng-click="ToggleSettings()">Handle Column</button>
+        <button class="btn btn-info" ng-click="ReloadTable()">Reload Table</button>
+    </div>
+    <br />
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th ng-show="NameCheck" scope="col">Name</th>
+                <th ng-show="AddressCheck" scope="col">Address</th>
+                <th ng-show="SourceCheck" scope="col">Source</th>
+                <th ng-show="EmailCheck" scope="col">Email</th>
+                <th ng-show="ClassificationCheck" scope="col">Classification</th>
+                <th ng-show="MobileCheck" scope="col">Mobile</th>
+                <th ng-show="PhoneCheck" scope="col">Telephone</th>
+                <th ng-show="EmployeeNameCheck" scope="col">Employee Name</th>
+                <th scope="col">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="ele in DataForTable">
+                <td scope="col">{{ele.ClientID}}</td>
+                <td ng-show="NameCheck" scope="col">{{ele.Name}}</td>
+                <td ng-show="AddressCheck" scope="col">{{ele.Address}}</td>
+                <td ng-show="SourceCheck" scope="col">{{ele.Source}}</td>
+                <td ng-show="EmailCheck" scope="col">{{ele.Email}}</td>
+                <td ng-show="ClassificationCheck" scope="col">{{ele.Classification}}</td>
+                <td ng-show="MobileCheck" scope="col">{{ele.Mobile}}</td>
+                <td ng-show="PhoneCheck" scope="col">{{ele.Telephone1}}</td>
+                <td ng-show="EmployeeNameCheck" scope="col">{{ele.Employee.Name}}</td>
+                <td>
+                    <button class="btn btn-link" ng-click="DeleteClient(ele.ClientID)">Delete</button>
+                    <button class="btn btn-link" ng-click="EditClient(ele.ClientID)">Edit</button>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <button ng-repeat="ele in TotalRecords track by $index" class="btn btn-link" ng-class="ele == CurrentPage ?  'font-weight-bold' : ''" ng-click="FetchNewPages(ele)">{{ele}}</button>
+
+    <br />
+
+    <button class="btn btn-success" ng-click="AddClient()">Add New Client</button>
+
+</div>
+

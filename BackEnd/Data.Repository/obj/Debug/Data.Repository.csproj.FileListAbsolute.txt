@@ -1,0 +1,34 @@
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data.Repository\bin\Debug\Data.Repository.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data.Repository\bin\Debug\Data.Repository.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data.Repository\bin\Debug\Data.Infrastructure.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data.Repository\bin\Debug\Model.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data.Repository\bin\Debug\Data.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data.Repository\bin\Debug\Data.Infrastructure.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data.Repository\bin\Debug\Data.Infrastructure.dll.config
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data.Repository\bin\Debug\Model.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data.Repository\bin\Debug\Model.dll.config
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data.Repository\bin\Debug\Data.pdb
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data.Repository\bin\Debug\Data.dll.config
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data.Repository\bin\Debug\EntityFramework.xml
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data.Repository\obj\Debug\Data.Repository.csprojAssemblyReference.cache
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data.Repository\obj\Debug\Data.Repository.csproj.CoreCompileInputs.cache
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data.Repository\obj\Debug\Data.Repository.csproj.CopyComplete
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data.Repository\obj\Debug\Data.Repository.dll
+D:\ITI\TasksForJobs\EGMaster\BackEnd\Data.Repository\obj\Debug\Data.Repository.pdb
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data.Repository\bin\Debug\Data.Repository.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data.Repository\bin\Debug\Data.Repository.pdb
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data.Repository\bin\Debug\Data.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data.Repository\bin\Debug\Data.Infrastructure.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data.Repository\bin\Debug\Model.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data.Repository\bin\Debug\Data.Infrastructure.pdb
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data.Repository\bin\Debug\Data.Infrastructure.dll.config
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data.Repository\bin\Debug\Data.pdb
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data.Repository\bin\Debug\Data.dll.config
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data.Repository\bin\Debug\Model.pdb
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data.Repository\bin\Debug\Model.dll.config
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data.Repository\bin\Debug\EntityFramework.xml
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data.Repository\obj\Debug\Data.Repository.csprojAssemblyReference.cache
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data.Repository\obj\Debug\Data.Repository.csproj.CoreCompileInputs.cache
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data.Repository\obj\Debug\Data.Repository.csproj.CopyComplete
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data.Repository\obj\Debug\Data.Repository.dll
+C:\Users\zero4\Desktop\New folder (2)\BackEnd\Data.Repository\obj\Debug\Data.Repository.pdb
